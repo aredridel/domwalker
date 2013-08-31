@@ -1,0 +1,20 @@
+{
+  "name": "domwalker",
+  "version": "0.5.0",
+  "description": "A helper utility to iterate over the DOM:w",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aredridel/domwalker"
+  },
+  "keywords": [
+    "dom",
+    "html5",
+    "tree walker"
+  ],
+  "author": "Aria Stewart <aredridel@nbtsc.org>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/aredridel/domwalker/issues"
+  }
+}
